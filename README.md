@@ -1,9 +1,9 @@
 ### Hi there, I'm Lithikhaa 👋
 
 <img align = "left" width="47%"   src="https://github-readme-stats.vercel.app/api?username=Lithikhaa&show_icons=true&theme=radical" />
-<img align = "left" width="48%"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lithikhaa&layout=compact" />
+<img align = "bottomth="48%"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lithikhaa&layout=compact" />
 
-<h1 align = "bottom"></h1>
+
 <img alt="Python" align = "bottom" src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img alt="OpenCV" align = "left" src ="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 <img alt="Numpy" align = "left" src ="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
