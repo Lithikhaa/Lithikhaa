@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning **Data Analytics & AI/ML**
 
 - 📫 How to reach me **lithiprithi26@gmail.com**
+## [View My Resume](https://drive.google.com/file/d/1F4fBe_ZT1eWSwSQl1CjxBCrj1LaGNxAk/view?usp=sharing)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F4fBe_ZT1eWSwSQl1CjxBCrj1LaGNxAk/view?usp=sharing](https://drive.google.com/file/d/1F4fBe_ZT1eWSwSQl1CjxBCrj1LaGNxAk/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,15 +32,15 @@
 
 
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lithikhaa&" alt="lithikhaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lithikhaa&show_icons=true&locale=en" alt="lithikhaa" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lithikhaa&" alt="lithikhaa" /></p>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lithikhaa&show_icons=true&locale=en&layout=compact" alt="lithikhaa" /></p>
+
+
+
+
 
 
 
