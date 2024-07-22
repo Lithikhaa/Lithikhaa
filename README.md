@@ -10,6 +10,12 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1F4fBe_ZT1eWSwSQl1CjxBCrj1LaGNxAk/view?usp=sharing](https://drive.google.com/file/d/1F4fBe_ZT1eWSwSQl1CjxBCrj1LaGNxAk/view?usp=sharing)
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lithikhaa kathiresan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lithikhaa kathiresan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lithiprithi26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lithiprithi26" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <img alt="Python" align = "left" src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img alt="OpenCV" align = "left" src ="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -23,14 +29,9 @@
 <img alt="Keras"  align = "left" src ="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lithikhaa kathiresan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lithikhaa kathiresan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lithiprithi26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lithiprithi26" height="30" width="40" /></a>
-</p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lithikhaa&show_icons=true&locale=en&layout=compact" alt="lithikhaa" /></p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lithikhaa&show_icons=true&locale=en" alt="lithikhaa" /></p>
@@ -39,6 +40,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lithikhaa&" alt="lithikhaa" /></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lithikhaa&show_icons=true&locale=en&layout=compact" alt="lithikhaa" /></p>
 
 
 
