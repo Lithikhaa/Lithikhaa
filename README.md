@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Data Analytics & AI/ML**
 
 - 📫 How to reach me **lithiprithi26@gmail.com**
-## [View My Resume](https://drive.google.com/file/d/1F4fBe_ZT1eWSwSQl1CjxBCrj1LaGNxAk/view?usp=sharing)
+## [View My Resume](https://drive.google.com/file/d/1bgbEZJorJbc9c3ZF9TWGWFdTgSuw3eew/view?usp=sharing)
 
 
 
