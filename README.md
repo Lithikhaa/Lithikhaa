@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lithikhaa Kathiresan</h1>
 <h3 align="center">Data Analyst 📊 | Machine Learning Enthusiast 🤖 | Tech Innovator 💡 | Lifelong Learner 📚 Passionate about data science and driven by curiosity, I thrive on solving problems and exploring the latest technological trends. Always excited to learn and innovate.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lithikhaa" alt="lithikhaa" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lithikhaa" alt="lithikhaa" /></a> </p>-->
 
 - 🌱 I’m currently learning **Data Analytics & AI/ML**
 
