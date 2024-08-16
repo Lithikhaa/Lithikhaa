@@ -12,7 +12,7 @@
 - 📫 How to reach me: **[lithiprithi26@gmail.com](mailto:lithiprithi26@gmail.com)**
 
 <!-- Resume Link -->
-## [📄 View My Resume](https://drive.google.com/file/d/1IK9CFUlpFHucemxRXunZHY9QmImFrFnW/view?usp=sharing)
+## [📄 View My Resume](https://drive.google.com/file/d/1YJ9mqb-vjypBhs-hXVXpHySUz4lj_buv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
